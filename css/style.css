@@ -3005,6 +3005,7 @@ li>a {
 
 .vertical ul li label {
 	padding: 10px 0px;
+	text-transform: uppercase;
 }
 
 .vertical [type=radio]:checked~label,
