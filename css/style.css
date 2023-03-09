@@ -226,7 +226,8 @@ img {
 }
 
 .navbar-header img {
-	width: 140px;
+	width: 190px;
+    margin-top: 8px;
 }
 
 .navbar-nav>li {
@@ -4560,7 +4561,7 @@ li>a {
 
 	.navbar-header img {
 		margin-left: 5%;
-		width: 25%;
+		width: 50%;
 	}
 
 	.trend-ltpwrlayouts h2,
